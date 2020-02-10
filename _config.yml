@@ -1,0 +1,9 @@
+# Site setting
+title: An Example of a site
+github_username: marcelzaes
+description: >
+  This is Marcel Zaes' Repository for Code
+  
+# Build settings
+markdown: kramdown
+theme: minima
